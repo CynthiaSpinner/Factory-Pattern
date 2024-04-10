@@ -1,0 +1,5 @@
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.sourcelink.json
