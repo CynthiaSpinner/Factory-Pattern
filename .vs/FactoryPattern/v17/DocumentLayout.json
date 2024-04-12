@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "FactoryPattern\\VehicleFactory.cs",
               "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\Factory-Pattern\\FactoryPattern\\VehicleFactory.cs",
               "RelativeToolTip": "FactoryPattern\\VehicleFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T16:34:47.542Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "FactoryPattern\\Motorcycle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T16:31:13.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T16:31:13.025Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "FactoryPattern\\Car.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T16:30:55.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T16:30:55.147Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "FactoryPattern\\IVehicle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T16:29:56.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T16:29:56.18Z"
             },
             {
               "$type": "Document",
@@ -100,7 +97,7 @@
               "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
               "ToolTip": "C:\\Users\\cynth\\Desktop\\Repos\\Factory-Pattern\\FactoryPattern\\Program.cs",
               "RelativeToolTip": "FactoryPattern\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T16:28:43.796Z",
               "EditorCaption": ""

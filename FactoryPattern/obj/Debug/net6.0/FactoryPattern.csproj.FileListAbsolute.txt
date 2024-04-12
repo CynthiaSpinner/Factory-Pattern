@@ -3,3 +3,13 @@ C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\Fac
 C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
 C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
 C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.sourcelink.json
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\cynth\Desktop\Repos\Factory-Pattern\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
